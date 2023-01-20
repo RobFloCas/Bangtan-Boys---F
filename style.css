@@ -1,0 +1,79 @@
+body {
+
+
+text-align: center;
+background:#1abc9c ;
+}
+
+
+.cabecera h1 {
+
+font-family: 'Times New Roman', Times, serif;
+
+
+
+}
+
+div {
+
+    background: #bdc3c7;
+width: 960px;
+margin: auto;
+text-align: center;
+padding: 15px;
+}
+
+
+p {
+
+text-align: left;
+border: 1px solid black;
+font-family:  12px Arial, Helvetica, sans-serif;
+
+}
+
+.menu {
+
+background: #2ecc71;
+
+}
+
+.menu li {
+
+list-style: none;
+padding: 5px;
+font:bold 14px verdana ;
+display: inline-block;
+border: 1px solid black;
+}
+
+.primera {
+
+
+float: left;
+
+
+}
+
+
+.segunda {
+
+float: right;
+
+
+}
+
+
+
+.first {
+
+
+clear: both;
+
+
+}
+
+
+
+
+
